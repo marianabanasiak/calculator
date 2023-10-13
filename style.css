@@ -1,0 +1,20 @@
+body {
+	background-color: #859;
+	color: white;
+}
+.calc {
+	color: #fcf;
+	font-size: 20px;
+	text-align: center;
+	font-family: "Times New Roman";
+	text-transform: uppercase;
+}
+.comment {
+	text-align: center;
+}
+#calculImg {
+	text-align: center;
+}
+.calcForm {
+	text-align: center;
+}
